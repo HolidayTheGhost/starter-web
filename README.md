@@ -16,7 +16,7 @@ The deployment of this project will occur on 1/4/2016
 
 ## How To Contribute
 
-If you would like to contribute, please send all money to me and I'll distribute as needed.
+Please fork this repository and then issue Pull Requests for review.
 
 ## Additional Info
 

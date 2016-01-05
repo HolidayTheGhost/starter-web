@@ -8,6 +8,8 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+The purpose of this is to teach comparisons using Git.
+
 ## Deployment
 
 ## How To Contribute

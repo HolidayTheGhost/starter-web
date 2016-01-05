@@ -21,3 +21,7 @@ If you would like to contribute, please send all money to me and I'll distribute
 ## Additional Info
 
 This is a new section I added because why not?
+
+### Copyright
+
+2016 Git.training

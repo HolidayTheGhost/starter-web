@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Neiman -- Front-end Developer -- chrisneiman@hotmail.com
 
 # THANKS
 
